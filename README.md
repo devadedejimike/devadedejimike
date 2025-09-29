@@ -60,7 +60,7 @@ I'm passionate about building products that make life easier for people across t
 ### 📫 Connect with Me
 
 - [X (Twitter): @devadedejimike](https://twitter.com/devadedejimike)
-- [LinkedIn: Adeyemi Adedeji Michae](https://www.linkedin.com/in/adedeji-adeyemi-696193290)
+- [LinkedIn: Adeyemi Adedeji Michael](https://www.linkedin.com/in/adedeji-adeyemi-696193290)
 
 ---
 
