@@ -18,12 +18,8 @@ I'm passionate about building products that make life easier for people across t
 
 ---
 
-### 🛠️ Tech Stack
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+## 🛠️ Tech Stack  
+⚛️ ReactJS &nbsp;&nbsp; 🟢 Node.js &nbsp;&nbsp; 🚂 Express.js &nbsp;&nbsp; 🍃 MongoDB
 
 
 ---
