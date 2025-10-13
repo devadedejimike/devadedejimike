@@ -19,7 +19,7 @@ I'm passionate about building products that make life easier for people across t
 ---
 
 ## 🛠️ Tech Stack  
-⚛️ ReactJS &nbsp;&nbsp; 🟢 Node.js &nbsp;&nbsp; 🚂 Express.js &nbsp;&nbsp; 🍃 MongoDB
+🟦 TypeScript &nbsp;&nbsp; ⚛️ ReactJS &nbsp;&nbsp; 🟢 Node.js &nbsp;&nbsp; 🚂 Express.js &nbsp;&nbsp; 🍃 MongoDB
 
 
 ---
