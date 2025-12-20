@@ -38,7 +38,7 @@ I'm passionate about building products that make life easier for people across t
 - 🎫 [StudEase---Student-Support-Ticketing-System](https://github.com/devadedejimike/StudEase---Student-Support-Ticketing-System)  
   <sub>Making student assistance streamlined and responsive.</sub>
 - 🛍️ [Bukka-App](https://github.com/devadedejimike/Bukka-App)
-- 🖼️ [Image-Slider](https://github.com/devadedejimike/Image-Slider)
+- 🖼️ [NexID Landing Page](https://github.com/devadedejimike/NexID)
 - ⚡ [Advanced Animated Loader (HTML/CSS)](https://github.com/devadedejimike/Advanced-Animated-Loader-Using-HTML-and-CSS)
 
 ---
