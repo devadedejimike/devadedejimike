@@ -39,7 +39,7 @@ I'm passionate about building products that make life easier for people across t
   <sub>Making student assistance streamlined and responsive.</sub>
 - 🛍️ [Bukka-App](https://github.com/devadedejimike/Bukka-App)
 - 🖼️ [NexID Landing Page](https://github.com/devadedejimike/NexID)
-- ⚡ [Advanced Animated Loader (HTML/CSS)](https://github.com/devadedejimike/Advanced-Animated-Loader-Using-HTML-and-CSS)
+- ⚡ [Notes API](https://github.com/devadedejimike/Notes-API)
 
 ---
 
