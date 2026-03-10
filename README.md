@@ -24,7 +24,7 @@ I'm passionate about building products that solve real-world problems. My goal i
 **Backend**  
 🟢 Node.js &nbsp;&nbsp; 🚂 Express.js &nbsp;&nbsp; 🐹 Go (Golang)
 
-**Databases**  
+**Database**  
 🍃 MongoDB &nbsp;&nbsp; 🐘 PostgreSQL
 ---
 
