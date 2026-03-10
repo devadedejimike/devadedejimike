@@ -17,9 +17,15 @@ I'm passionate about building products that solve real-world problems. My goal i
 ---
 
 ## 🛠️ Tech Stack  
-🟦 **TypeScript** &nbsp;&nbsp; 🐹 **Go (Golang)** &nbsp;&nbsp; ⚛️ **ReactJS** &nbsp;&nbsp; 🟢 **Node.js** &nbsp;&nbsp; 🚂 **Express.js** &nbsp;&nbsp; 🍃 **MongoDB**
 
+**Frontend**  
+⚛️ ReactJS &nbsp;&nbsp; 🟦 TypeScript  
 
+**Backend**  
+🟢 Node.js &nbsp;&nbsp; 🚂 Express.js &nbsp;&nbsp; 🐹 Go (Golang)
+
+**Databases**  
+🍃 MongoDB &nbsp;&nbsp; 🐘 PostgreSQL
 ---
 
 ### 🧠 Learning Journey
